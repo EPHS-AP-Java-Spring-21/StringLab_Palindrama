@@ -10,3 +10,22 @@ A palindrome is a string which reads the same forwards as it does backwards – 
 Sample input: bahuibyasfhbhuahsfbuhuashfbuabcdedcbakasjfkjasjaskjajhuye
 > Sample output: abcdedcba
 
+Sample input: baclevelcdb
+> Sample output: clevelc
+
+Sample input: tenanimalsislaminanetaaaaabbbbbstarstarrats
+> Sample output: tenanimalsislaminanet
+
+Sample input: nevereverevenneverevereven
+> Sample output: nevereverevenneverevereven
+
+Sample input: spacecapsababasmartrams
+> Sample output: spacecaps
+
+Sample input: wasitacaroracatisawjklmnamanaplanacanalpanamayuixztenanimalsislaminanetopuitunarolloranutmnas
+> Sample output: amanaplanacanalpanama
+
+Sample input: z
+> Sample output: z
+
+
